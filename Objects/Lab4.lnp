@@ -4,7 +4,7 @@
 ".\objects\retarget.o"
 ".\objects\uart.o"
 ".\objects\main.o"
-"..\..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\RTX\Library\ARM\RTX_CM3.lib"
+"..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS2\RTX\Library\ARM\RTX_CM3.lib"
 ".\objects\rtx_lib.o"
 ".\objects\rtx_config.o"
 ".\objects\startup_lpc17xx.o"
